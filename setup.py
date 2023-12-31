@@ -80,7 +80,7 @@ setup(
         'parsedatetime',
         'pathlib2',
         'polyline',
-        'pydruid>=0.4.3',
+        'pydruid>=0.6.6',
         'pyhive>=0.4.0',
         'python-dateutil',
         'python-geohash',
